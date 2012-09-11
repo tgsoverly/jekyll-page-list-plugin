@@ -11,9 +11,9 @@ Usage
 
 I just split the param on ','.  Maybe there is a better way.
 
-param1 = directory to list
-param2 = list sub files?
-param3 = Title of div
+* param1 = directory to list
+* param2 = list sub files?
+* param3 = Title of div
 
 The above would insert a page list located in your directory "pages/foo/bar", it would not list pages in sub directories, and the table of contents would have a title "Title"
 
