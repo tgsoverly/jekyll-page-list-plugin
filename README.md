@@ -17,3 +17,9 @@ I just split the param on ','.  Maybe there is a better way.
 
 The above would insert a page list located in your directory "pages/foo/bar", it would not list pages in sub directories, and the table of contents would have a title "Title"
 
+TODO
+-----
+
+* Style better
+* Handle Params better
+
